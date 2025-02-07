@@ -11,7 +11,3 @@ This project is built based on a progress learning ideas of components, props an
 ###### 3. Applying CSS in react
 
 ###### 4. Passing and Receiving Props
-
-    NOTE
-    - No immutation of props
-    - React uses one way data flow
